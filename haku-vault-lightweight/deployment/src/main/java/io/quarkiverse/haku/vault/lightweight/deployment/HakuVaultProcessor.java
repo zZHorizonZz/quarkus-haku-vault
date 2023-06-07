@@ -1,4 +1,4 @@
-package io.quarkiverse.haku.vault.deployment;
+package io.quarkiverse.haku.vault.lightweight.deployment;
 
 import io.quarkus.deployment.annotations.BuildStep;
 import io.quarkus.deployment.builditem.FeatureBuildItem;
