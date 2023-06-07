@@ -1,0 +1,5 @@
+name: quarkus-haku-vault
+title: Quarkus Haku Vault
+version: dev
+nav:
+  - modules/ROOT/nav.adoc
